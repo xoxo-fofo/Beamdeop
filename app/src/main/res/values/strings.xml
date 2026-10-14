@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BeamDrop</string>
+    <string name="app_tagline">Ultra-Fast Offline P2P File Transfer</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "BeamDrop",
+  "description": "High-speed offline P2P Wi-Fi file sharing using Network Service Discovery, QR pairing, and raw TCP streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
